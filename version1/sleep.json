@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2025-08-26",
+        "expected_sleep": "23:15",
+        "actual_sleep": "23:45",
+        "expected_wake": "07:30",
+        "actual_wake": "08:15",
+        "reason_sleep": "assignment submission",
+        "reason_wake": "slept late"
+    },
+    {
+        "date": "2025-08-25",
+        "expected_sleep": "00:30",
+        "actual_sleep": "00:45",
+        "expected_wake": "07:00",
+        "actual_wake": "07:15",
+        "reason_sleep": "dfj;fa",
+        "reason_wake": "adffs"
+    }
+]
